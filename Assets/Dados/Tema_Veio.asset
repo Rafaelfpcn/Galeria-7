@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b7b45ea5f2f9c409e481cdf9a3b94d, type: 3}
+  m_Name: Tema_Veio
+  m_EditorClassIdentifier: Assembly-CSharp::Tema
+  nome: O veio negro
+  rocha: {fileID: 2100000, guid: d7b731a9e2e37074e8f270a0cc3401ad, type: 2}
+  neblina: {r: 0, g: 0.025, b: 0.01, a: 1}
+  densidadeDaNeblina: 0.07
+  luzAmbiente: {r: 0.006, g: 0.016, b: 0.008, a: 1}
+  laminaDeAgua: {fileID: 0}
+  portal: {fileID: 0}
+  portais: []
+  trilho: {fileID: 0}
+  enfeites:
+  - {fileID: 5808344485148279666, guid: a19cded8db3f89640b2f9c3318170272, type: 3}
+  - {fileID: 667206639736315428, guid: 32d1d141f63b56049b337906c19566ad, type: 3}
+  - {fileID: 5781383542927613591, guid: 0fe0b3f30d434d14fb502eb7b7a1921d, type: 3}
+  chanceDeEnfeite: 0.6
+  cenas:
+  - {fileID: 256589784995504715, guid: 9a038193ca48cf2449c8ba9a023c7413, type: 3}
+  - {fileID: 9218732961975772470, guid: b3adc33c38d68414897e64ab2e98aa85, type: 3}
+  - {fileID: 256589784995504715, guid: 9a038193ca48cf2449c8ba9a023c7413, type: 3}
+  luminaria: {fileID: 5058277004680369377, guid: ffc9b12a19c9aeb4ba3bf14b9e85d8c7, type: 3}
+  chanceDeLuminaria: 0.6
+  trocas:
+  - de: {fileID: 2100000, guid: 8dc58be9c54b41543ba374befd18eef9, type: 2}
+    para: {fileID: 2100000, guid: 7514d878ed667db48ba7d41414eaf610, type: 2}
+  - de: {fileID: 2100000, guid: b110e2454bd6c6b41b80675105e797aa, type: 2}
+    para: {fileID: 2100000, guid: 389de4feb415621459dd5a4000052ef8, type: 2}
+  - de: {fileID: 2100000, guid: 5b63b2878495ef14a9d428404b0dcfda, type: 2}
+    para: {fileID: 2100000, guid: e5b03bd50e0e7e34da7cba4f127a5c4e, type: 2}
+  - de: {fileID: 2100000, guid: 3408905073c5825469633483d3cd1ca4, type: 2}
+    para: {fileID: 2100000, guid: e5b03bd50e0e7e34da7cba4f127a5c4e, type: 2}
+  granulado: 0.8
+  vinheta: 0.52
+  filtro: {r: 0.9, g: 1.05, b: 0.9, a: 1}
+  saturacao: -32
+  sonsDoAmbiente:
+  - {fileID: 8300000, guid: 1e382f1f1c84fff4b9a38783c9cfd8b7, type: 3}
+  - {fileID: 8300000, guid: 517fc1df74b168b439c21da2e880b01a, type: 3}
+  - {fileID: 8300000, guid: 79be238577bb4f9429af3349fd0114e6, type: 3}

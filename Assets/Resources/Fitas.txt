@@ -1,0 +1,64 @@
+# As 20 fitas da Galeria 7. Cada bloco é uma fita: a primeira linha é o título e o resto é a gravação.
+# Os blocos são separados por uma linha em branco. As fitas 1 a 6 aparecem nos andares 1 a 3,
+# as 7 a 13 nos andares 4 a 6, as 14 a 19 nos andares 7 a 9, e a 20 toca no final.
+# Se mudar um texto, rode Ferramentas/gerar_vozes.ps1 para gravar a voz de novo.
+
+Fita 1 · Tonho, capataz · 2 de março de 1983
+Teste, teste. Tá gravando? A companhia mandou esses gravadores pra gente fazer relatório falado, que aqui ninguém tem letra boa. Então fica registrado: Galeria 7 reaberta, vinte e três chapas no quadro, escoramento novo até o terceiro nível. Aviso pros novatos: pendura a chapa antes de entrar na gaiola, e o lampião é a vida do mineiro. Quem deixar o óleo acabar lá embaixo vai se ver comigo.
+
+Fita 2 · Dito, ajudante · 5 de março de 1983
+Mãe, se a senhora ouvir essa fita um dia: primeira semana de mina. A minha chapa é a vinte e três, a última do quadro. Já aprendi a me agachar nas vigas baixas e a não correr à toa, que o fôlego acaba ligeiro aqui embaixo. O seu Tonho diz que o minério daqui vale o dobro. Eu guardo o meu numa lata, pra reformar a cozinha da senhora. Só não gosto do barulho da madeira de noite. Parece gente andando.
+
+Fita 3 · Tonho, capataz · 9 de março de 1983
+Relatório. Batemos numa rocha preta no terceiro nível, lisa feito vidro. A picareta tira faísca e não lasca. Bati a alavanca no teto em volta e não é choco: tá firme demais, parece que a pedra se segura sozinha. O Zé Lourenço quer dinamite, o doutor Álvaro quer amostra. Eu quero é saber por que os ratos sumiram da galeria desde ontem. Rato só larga um lugar quando sabe de coisa que a gente não sabe.
+
+Fita 4 · Dr. Álvaro, engenheiro · 12 de março de 1983
+Registro técnico. A formação escura continua para baixo, além do que as plantas de 1954 indicam. Não reage ao ácido e não esquenta. O curioso é o som: encostando o ouvido, percebe-se uma vibração regular, quase musical. Os homens dizem que o veio canta, e os mais velhos falam em Mãe do Ouro. Superstição, naturalmente. Autorizei a descida ao quarto nível.
+
+Fita 5 · Severino, lampista · 15 de março de 1983
+Quarenta anos enchendo lampião, com o peito cheio de pó de pedra, e nunca vi isso. Um bicho pequeno, sem pelo, de olho vermelho, correndo pelo chão do segundo nível. O Dito avivou a chama em cima dele e a coisa fugiu guinchando. Então fica o aviso do velho: chama alta espanta. Mas chama alta bebe o óleo três vezes mais depressa. Escolhe bem a hora.
+
+Fita 6 · Tonho, capataz · 21 de março de 1983
+Sumiram dois do turno da noite, os irmãos Batista. Deixaram as marmitas e as botas, e as duas chapas continuam no quadro. A companhia mandou dizer que desertaram. Com as botas no chão? Daqui pra frente ninguém desce sozinho. E quem pegar minério sobe pela gaiola e guarda lá em cima. Quem fica ganancioso aqui embaixo não volta pra gastar.
+
+Fita 7 · Dito, ajudante · 28 de março de 1983
+A água começou a minar no quarto nível, fria de doer o osso. E o canto ficou mais alto, dá pra ouvir sem encostar na pedra. O Chico passa o almoço inteiro de ouvido colado no veio, sorrindo, com a marmita fechada do lado. Chamei três vezes. Quando ele virou pra mim, parecia que tinha esquecido o meu nome. Acendi uma vela pra Santa Bárbara no nicho da galeria, mãe. Por ele e por mim.
+
+Fita 8 · Dr. Álvaro, engenheiro · 2 de abril de 1983
+As amostras do nível cinco dobraram de peso durante a noite, trancadas no cofre. Repito: dobraram. Escrevi à diretoria pedindo um geólogo de Belo Horizonte. Responderam com um telegrama de três palavras: aumentem a produção. Começo a suspeitar que alguém lá em cima já sabia o que havia aqui embaixo.
+
+Fita 9 · Severino, lampista · 6 de abril de 1983
+O Chico não enxerga mais. Os olhos fecharam, a pele cresceu por cima, e ele nem ligou. Mas escuta um alfinete cair no fim da galeria. Ontem um rapaz passou correndo e o Chico foi atrás feito cachorro. De quem anda abaixado e devagar ele não toma conhecimento. Luz não adianta, que ele não vê. Com esse aí o remédio é silêncio. Fui eu que ensinei aquele menino a acender um lampião. Hoje passei por ele sem respirar.
+
+Fita 10 · Zé Lourenço, fogueteiro · 11 de abril de 1983
+Fui minerar no salão alagado e o barulho da picareta trouxe três daqueles de olho vermelho. Minerar chama. Correr chama. Aprendi a dar uns golpes, parar e escutar. E quando o teto solta poeira e a madeira estala, é choco: eu arredo de baixo sem pensar. Já vi desabar em cima de quem ficou olhando. Fogueteiro velho é fogueteiro medroso, e eu pretendo ficar velho.
+
+Fita 11 · Dito, ajudante · 16 de abril de 1983
+Tem um ar ruim nas partes baixas, verde, parado. O lampião apaga na hora e não acende de jeito nenhum enquanto a gente não sai dali. O Severino diz que é gás do veio. Atravessei um no escuro, de mão na parede, contando os passos. Nunca rezei tanto, mãe. Os velhos dizem que quem morre devendo vira Corpo-Seco, que nem a terra quer. Eu não devo nada a ninguém. Só a lata de minério, que é da senhora.
+
+Fita 12 · Tonho, capataz · 23 de abril de 1983
+Agora são nove chapas que ninguém vem buscar. Os que escutam demais ficam cegos. Os que cavam demais ficam ocos. O Raimundo tá lá no sexto nível, de capacete e picareta, andando devagar, sem rosto nenhum. Bate forte e não tem medo de luz. Mas é lerdo, levanta o braço muito antes do golpe. Quem presta atenção escapa. Fui eu que chamei o Raimundo pra essa turma. Fica gravado.
+
+Fita 13 · Dr. Álvaro, engenheiro · 30 de abril de 1983
+Desci ao sexto nível contra todas as normas. O veio não é mineral. Tem ramificações, como veias, e todas correm para baixo, para um mesmo ponto. Pulsa. Uma batida a cada dois segundos. Não estamos extraindo um minério. Estamos abrindo um corpo. Solicito oficialmente o fechamento da Galeria 7.
+
+Fita 14 · Zé Lourenço, fogueteiro · 4 de maio de 1983
+A diretoria negou o fechamento. Então a gente fecha por conta. Somos catorze ainda de cabeça boa. O plano é meu: descer com toda a dinamite do paiol até a raiz dessa coisa e mandar tudo pelos ares. O doutor diz que tem um coração lá embaixo. Coração a gente sabe como para. Pedi a bênção de Santa Bárbara, que é quem cuida de fogueteiro. Dessa vez eu não pedi pra voltar.
+
+Fita 15 · Severino, lampista · 7 de maio de 1983
+Do sétimo nível pra baixo a pedra é toda preta e as paredes respiram. Juro pelos meus netos. Deixei frascos de óleo e uns sinalizadores pelo caminho, pra quem vier depois. O sinalizador clareia tudo e põe os de olho vermelho pra correr. Eu já não desço mais. O peito não deixa, e alguém tem que ficar na gaiola esperando o toque da campainha. Vou esperar até o último.
+
+Fita 16 · Dito, ajudante · 9 de maio de 1983
+O canto agora tem palavras, mãe. Chama a gente pelo nome. Diz que lá embaixo não tem cansaço nem fome. O Joaquim amarrou um pano nos meus ouvidos e me deu um tapa pra eu acordar. Disse pra eu pensar na senhora e no cheiro do café. Tô pensando com toda a força. Se eu não subir, a lata de minério tá debaixo da minha cama. Reforma a cozinha, mãe.
+
+Fita 17 · Tonho, capataz · 10 de maio de 1983
+Perdemos cinco na descida de hoje. No fundo, o chão se abre e saem uns braços pretos, grossos feito tronco. Mas a coisa avisa: a pedra fica vermelha um instante antes. Quem pula fora vive. Fica gravado pra quem precisar: olho no chão, sempre. Deixei os cinco capacetes juntos, com uma cruz de tábua. No primeiro dia eu disse que o lampião era a vida do mineiro. Errei. É o companheiro do lado.
+
+Fita 18 · Dr. Álvaro, engenheiro · 11 de maio de 1983
+Vi o coração. Fica preso à rocha, no fundo de um salão enorme. Tem três nódulos claros na superfície, os únicos pontos que cedem ao ferro. A dinamite sozinha não basta: é preciso quebrar os três à picareta, de perto. Quando o primeiro quebrar, ele vai apagar as luzes e chamar os pequenos. Que Deus me perdoe pelas assinaturas que dei.
+
+Fita 19 · Zé Lourenço, fogueteiro · 12 de maio de 1983
+É hoje. Somos seis. O Joaquim vai na frente com a picareta, eu levo o pavio. Se der certo, a galeria desaba atrás da gente e ninguém nunca mais ouve essa cantoria. Se der errado, que essa fita sirva de aviso. Não desçam. E se descerem, terminem o que a gente começou.
+
+Fita 20 · Joaquim · 12 de maio de 1983
+Se alguém da família estiver ouvindo, é porque chegou onde eu cheguei. Quebrei dois. Faltou braço pro terceiro. O Zé caiu, o pavio molhou, e a coisa cantava com voz de gente nossa. Eu não fui com ela. Fiquei aqui encostado, com a luz no fim, pensando em casa. Você terminou o serviço. Agora acende o pavio, sobe e não olha pra trás. E conta lá em cima que os vinte e três de Ouro Fundo não desertaram.

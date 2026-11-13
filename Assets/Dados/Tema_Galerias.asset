@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b7b45ea5f2f9c409e481cdf9a3b94d, type: 3}
+  m_Name: Tema_Galerias
+  m_EditorClassIdentifier: Assembly-CSharp::Tema
+  nome: Galerias de madeira
+  rocha: {fileID: 0}
+  neblina: {r: 0, g: 0, b: 0, a: 1}
+  densidadeDaNeblina: 0.06
+  luzAmbiente: {r: 0.012, g: 0.011, b: 0.01, a: 1}
+  laminaDeAgua: {fileID: 0}
+  portal: {fileID: 8963073116016341863, guid: 5ab952a48fc251a4f947c8f688a52839, type: 3}
+  portais:
+  - {fileID: 8963073116016341863, guid: 5ab952a48fc251a4f947c8f688a52839, type: 3}
+  - {fileID: 6168022136634927055, guid: 5a24e959329292a4f8fda119e634b1af, type: 3}
+  - {fileID: 6082691649057215550, guid: d82e4bd4b813d31459c04282a2f2e229, type: 3}
+  trilho: {fileID: 888779516088405008, guid: f4fadb6ddc58fa24d9a2d9fefa2109ac, type: 3}
+  enfeites:
+  - {fileID: 8926857513214005242, guid: 13616dfb4c45542478fbb7871e9326be, type: 3}
+  - {fileID: 7997316443967714706, guid: ca3dec9113d73234185d787658e8b905, type: 3}
+  - {fileID: 4511274217415045617, guid: 8191f982eb33d574cb86502c8b794d20, type: 3}
+  - {fileID: 648579283906006168, guid: b3033cd0c19f85049af88c159648746a, type: 3}
+  - {fileID: 5084177045658404195, guid: 70c7f9d7896dae9428ed229bdb2b6565, type: 3}
+  - {fileID: 278101631106880144, guid: f1292174cb0ce1b4ea38d1025657a466, type: 3}
+  - {fileID: 1183601802419499672, guid: 82d36a89363a9604a8dea16d86295c36, type: 3}
+  - {fileID: 5479153194134318036, guid: ca22fed5382c4f943b9e769f2c530aca, type: 3}
+  - {fileID: 5781383542927613591, guid: 0fe0b3f30d434d14fb502eb7b7a1921d, type: 3}
+  - {fileID: 4611031985731134646, guid: 2e9395b0259197040a7dae99a7032bb5, type: 3}
+  - {fileID: 1683540259565623246, guid: 1e63d96f39478d04789e70f4260c58a3, type: 3}
+  - {fileID: 1466218931082843377, guid: 46d5692d5b291404ab3d08559a866d42, type: 3}
+  - {fileID: 6098274687193152933, guid: f0bb1be0e106cc64297a1270484e557c, type: 3}
+  - {fileID: 3517228024591612316, guid: 56af1908e891b1948b1b54c52df44f20, type: 3}
+  chanceDeEnfeite: 0.6
+  cenas:
+  - {fileID: 3158976333412526013, guid: f8656ddf9585d8a48b9467647daf2e90, type: 3}
+  - {fileID: 5550552010106583119, guid: e5baab5d82de5504cad5e0cc47acd914, type: 3}
+  - {fileID: 1871846573208073000, guid: ab939a91d93b12c4fb464bc4ef7624d8, type: 3}
+  luminaria: {fileID: 84926587777053240, guid: e95753c5f938c9547a8d42de1b00644f, type: 3}
+  chanceDeLuminaria: 0.45
+  trocas: []
+  granulado: 0.4
+  vinheta: 0.4
+  filtro: {r: 1, g: 0.95, b: 0.87, a: 1}
+  saturacao: -8
+  sonsDoAmbiente:
+  - {fileID: 8300000, guid: 4a566cd4e060bc44b85be5bc44ef6e6a, type: 3}
+  - {fileID: 8300000, guid: 4a566cd4e060bc44b85be5bc44ef6e6a, type: 3}
+  - {fileID: 8300000, guid: 79be238577bb4f9429af3349fd0114e6, type: 3}

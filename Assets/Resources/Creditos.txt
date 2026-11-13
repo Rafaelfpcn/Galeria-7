@@ -1,0 +1,9 @@
+GALERIA 7
+
+Um jogo feito na Unity.
+
+Modelos, texturas e sons gerados por código.
+
+Aos vinte e três de Ouro Fundo.
+
+Obrigado por jogar.

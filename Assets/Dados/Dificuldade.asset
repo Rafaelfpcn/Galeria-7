@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2feeda4088834ab46bf5a991f3fe033e, type: 3}
+  m_Name: Dificuldade
+  m_EditorClassIdentifier: Assembly-CSharp::TabelaDeDificuldade
+  andares:
+  - tema: {fileID: 11400000, guid: 64de16bad1ec1c841b58b3ede3b1a290, type: 2}
+    salas: 6
+    chanceDeInimigo: 0.25
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.08
+  - tema: {fileID: 11400000, guid: 64de16bad1ec1c841b58b3ede3b1a290, type: 2}
+    salas: 7
+    chanceDeInimigo: 0.3
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.11
+  - tema: {fileID: 11400000, guid: 64de16bad1ec1c841b58b3ede3b1a290, type: 2}
+    salas: 8
+    chanceDeInimigo: 0.35
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.14
+  - tema: {fileID: 11400000, guid: 728ae62c903d73f458cabda5c51d822b, type: 2}
+    salas: 9
+    chanceDeInimigo: 0.4
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.17
+  - tema: {fileID: 11400000, guid: 728ae62c903d73f458cabda5c51d822b, type: 2}
+    salas: 10
+    chanceDeInimigo: 0.45000002
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.2
+  - tema: {fileID: 11400000, guid: 728ae62c903d73f458cabda5c51d822b, type: 2}
+    salas: 11
+    chanceDeInimigo: 0.5
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.22999999
+  - tema: {fileID: 11400000, guid: b2621abed1e41d54a8a90b2888703475, type: 2}
+    salas: 12
+    chanceDeInimigo: 0.55
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    - {fileID: 3546527653146186314, guid: da6afb91a9769364998c441177678865, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.26
+  - tema: {fileID: 11400000, guid: b2621abed1e41d54a8a90b2888703475, type: 2}
+    salas: 13
+    chanceDeInimigo: 0.6
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    - {fileID: 3546527653146186314, guid: da6afb91a9769364998c441177678865, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.29
+  - tema: {fileID: 11400000, guid: b2621abed1e41d54a8a90b2888703475, type: 2}
+    salas: 14
+    chanceDeInimigo: 0.65000004
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    - {fileID: 3546527653146186314, guid: da6afb91a9769364998c441177678865, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.32
+  - tema: {fileID: 11400000, guid: b2621abed1e41d54a8a90b2888703475, type: 2}
+    salas: 15
+    chanceDeInimigo: 0.7
+    inimigos:
+    - {fileID: 3468923804235004996, guid: f586ec3da1d07e34895f063327f2b99c, type: 3}
+    - {fileID: 6104218955128128866, guid: c332ada3c283d0948bf5d43a4b8e30f6, type: 3}
+    - {fileID: 3546527653146186314, guid: da6afb91a9769364998c441177678865, type: 3}
+    chanceDeVeio: 0.5
+    chanceDeItem: 0.3
+    chanceDePerigo: 0.35

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b7b45ea5f2f9c409e481cdf9a3b94d, type: 3}
+  m_Name: Tema_Cavernas
+  m_EditorClassIdentifier: Assembly-CSharp::Tema
+  nome: Cavernas alagadas
+  rocha: {fileID: 2100000, guid: 51bca2c6ae60bc44a9b16c52c0cf1d6d, type: 2}
+  neblina: {r: 0.01, g: 0.02, b: 0.035, a: 1}
+  densidadeDaNeblina: 0.05
+  luzAmbiente: {r: 0.008, g: 0.014, b: 0.022, a: 1}
+  laminaDeAgua: {fileID: 3161488355010696625, guid: 51c2eba6e562d6c489030a7cfb3ae689, type: 3}
+  portal: {fileID: 0}
+  portais: []
+  trilho: {fileID: 888779516088405008, guid: f4fadb6ddc58fa24d9a2d9fefa2109ac, type: 3}
+  enfeites:
+  - {fileID: 667206639736315428, guid: 32d1d141f63b56049b337906c19566ad, type: 3}
+  - {fileID: 667206639736315428, guid: 32d1d141f63b56049b337906c19566ad, type: 3}
+  - {fileID: 1183601802419499672, guid: 82d36a89363a9604a8dea16d86295c36, type: 3}
+  - {fileID: 5781383542927613591, guid: 0fe0b3f30d434d14fb502eb7b7a1921d, type: 3}
+  - {fileID: 4611031985731134646, guid: 2e9395b0259197040a7dae99a7032bb5, type: 3}
+  - {fileID: 6098274687193152933, guid: f0bb1be0e106cc64297a1270484e557c, type: 3}
+  - {fileID: 5084177045658404195, guid: 70c7f9d7896dae9428ed229bdb2b6565, type: 3}
+  chanceDeEnfeite: 0.7
+  cenas:
+  - {fileID: 1536929797796485131, guid: 4d97c16d35a712e4d8c301d3b89b01f6, type: 3}
+  - {fileID: 897917245055189128, guid: c8ba7f7ea7b99854ca1e8c459cf96ac0, type: 3}
+  - {fileID: 5716269254870554200, guid: a72855c92a6fff640afaccbd2dd55738, type: 3}
+  luminaria: {fileID: 3138978803531041725, guid: 918361381cc9a594fb7b098ecb9030b0, type: 3}
+  chanceDeLuminaria: 0.5
+  trocas:
+  - de: {fileID: 2100000, guid: 8dc58be9c54b41543ba374befd18eef9, type: 2}
+    para: {fileID: 2100000, guid: aa3ea0430e31717428e49a78190dccd9, type: 2}
+  - de: {fileID: 2100000, guid: b110e2454bd6c6b41b80675105e797aa, type: 2}
+    para: {fileID: 2100000, guid: f644f13d279c80f41bf83185bef12bad, type: 2}
+  - de: {fileID: 2100000, guid: 5b63b2878495ef14a9d428404b0dcfda, type: 2}
+    para: {fileID: 2100000, guid: e5b03bd50e0e7e34da7cba4f127a5c4e, type: 2}
+  - de: {fileID: 2100000, guid: 3408905073c5825469633483d3cd1ca4, type: 2}
+    para: {fileID: 2100000, guid: e5b03bd50e0e7e34da7cba4f127a5c4e, type: 2}
+  granulado: 0.55
+  vinheta: 0.46
+  filtro: {r: 0.84, g: 0.95, b: 1.06, a: 1}
+  saturacao: -20
+  sonsDoAmbiente:
+  - {fileID: 8300000, guid: 79be238577bb4f9429af3349fd0114e6, type: 3}
